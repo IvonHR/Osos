@@ -1,2 +1,2 @@
-# Osos
-Osos y laberinto en clases
+# Proyecto-Osos-Emma
+Librerias Preparadas
